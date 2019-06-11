@@ -1,0 +1,24 @@
+
+.horse-progress{
+  margin-right: .5%;
+  padding: 0% 5%;
+  display: inline;
+  height: 1%;
+  width: 2%;
+  margin-bottom: 20px;
+  background-color: red;
+
+}
+
+.horseA .horse-progress{
+  background-color: blue;
+
+}
+
+.horseB .horse-progress {
+  background-color: teal;
+}
+
+.horseC .horse-progress {
+  background-color: yellow;
+}
